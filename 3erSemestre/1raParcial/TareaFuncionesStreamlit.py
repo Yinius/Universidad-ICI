@@ -1,3 +1,6 @@
+#Por: Elian Yin Sánchez Ung 29/09/2024
+#Universidad de Colima 3°B
+
 import streamlit as st #alias aka
 import pandas as pd
 
